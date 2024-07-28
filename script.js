@@ -15,6 +15,6 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
 });
 
 function openGoogleSheet() {
-    const sheetUrl = 'https://docs.google.com/spreadsheets/d/1KZkqRPOcsWbaff0jphZjt_9Yb0Yhw95qJ8GItiqNXEg/edit?usp=sharing'; // replace with your actual Google Sheet URL
+    const sheetUrl = 'https://docs.google.com/spreadsheets/d/1P0aDI47JX8sMJ4bvW-wMUaMkbS7qpgP3HMaFyF6RNR4/edit?usp=sharing'; // replace with your actual Google Sheet URL
     window.location.href = sheetUrl;
 }
